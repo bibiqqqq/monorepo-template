@@ -1,0 +1,29 @@
+{
+  "name": "monorepo-template",
+  "version": "1.0.0",
+  "description": "多包仓库模版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibiqqqq/monorepo-template.git"
+  },
+  "keywords": [
+    "monorepo",
+    "lerna",
+    "rollup",
+    "typescript"
+  ],
+  "author": "danchengli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibiqqqq/monorepo-template/issues"
+  },
+  "homepage": "https://github.com/bibiqqqq/monorepo-template#readme",
+  "devDependencies": {
+    "lerna": "^3.19.0",
+    "rollup": "^1.27.10"
+  }
+}
