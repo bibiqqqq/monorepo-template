@@ -13,6 +13,7 @@
   "files": [
     "lib"
   ],
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bibiqqqq/monorepo-template.git"
@@ -22,5 +23,8 @@
   },
   "bugs": {
     "url": "https://github.com/bibiqqqq/monorepo-template/issues"
+  },
+  "dependencies": {
+    "the-answer": "^1.0.0"
   }
 }
