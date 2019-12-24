@@ -5,14 +5,16 @@
   "author": "但成立 <danchengli@u51.com>",
   "homepage": "https://github.com/bibiqqqq/monorepo-template/tree/master/packages/test-module2#readme",
   "license": "ISC",
-  "main": "lib/test-module2.js",
+  "main": "dist/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src",
+    "dist"
   ],
+  "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
   },

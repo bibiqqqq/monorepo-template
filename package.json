@@ -6,7 +6,9 @@
   "scripts": {
     "lint": "prettier --write --parser typescript 'packages/**/*.ts'",
     "lib": "node scripts/build.js",
-    "test": "jest"
+    "test": "jest",
+    "pub": "lerna publish",
+    "prepub": "npm run lib"
   },
   "husky": {
     "hooks": {

@@ -11,8 +11,10 @@
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "src",
+    "dist"
   ],
+  "types": "dist/index.d.ts",
   "publishConfig": {
     "access": "public"
   },
