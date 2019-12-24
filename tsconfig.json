@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "dist",
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "allowJs": false,
+    "declaration": true,
+    // "noImplicitThis": true,
+    "allowSyntheticDefaultImports": true,
+    "inlineSourceMap": false,
+    "experimentalDecorators": true,
+  },
+}

@@ -1,0 +1,32 @@
+{
+  "name": "@dan/test-module2",
+  "version": "1.0.1-alpha.0",
+  "description": "> TODO: description",
+  "author": "但成立 <danchengli@u51.com>",
+  "homepage": "https://github.com/bibiqqqq/monorepo-template/tree/master/packages/test-module2#readme",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "src",
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibiqqqq/monorepo-template.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/bibiqqqq/monorepo-template/issues"
+  },
+  "gitHead": "8f847f4371f03094a9674808cdf25496f9ee17c0"
+}
