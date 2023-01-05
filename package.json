@@ -59,7 +59,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-postcss": "^2.0.3",
     "rollup-plugin-typescript2": "^0.25.3",
-    "rollup-plugin-vue": "^5.1.4",
+    "rollup-plugin-vue": "^6.0.0",
     "ts-jest": "^24.2.0",
     "typescript": "^3.7.4"
   }
